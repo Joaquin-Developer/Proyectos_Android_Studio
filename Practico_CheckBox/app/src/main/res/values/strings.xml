@@ -1,0 +1,14 @@
+<resources>
+    <!-- Parte superior -->
+    <string name="app_name">Practico_CheckBox</string>
+    <string name="txtNum1">Ingresar primer numero</string>
+    <string name="txtNum2">Ingresar segundo numero</string>
+    <!-- Check Box -->
+    <string name="cBoxSuma">Sumar</string>
+    <string name="cBoxResta">Resta</string>
+    <!-- Boton -->
+    <string name="btnCalcular">CALCULAR</string>
+    <!-- TextView -->
+    <string name="txtViewResutado">RESULTADO : ---</string>
+
+</resources>
